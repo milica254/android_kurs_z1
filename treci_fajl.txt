@@ -1,0 +1,1 @@
+System.out.println("Pozdrav iz treceg fajla!" );
