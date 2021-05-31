@@ -1,2 +1,3 @@
 System.out.println("Pozdrav iz prvog fajla!" );
 "sa moje nove grane!"
+"nesto drugo"
